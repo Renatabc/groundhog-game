@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <!--Fonte do título-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&family=Raleway:wght@300;900&family=Roboto:ital,wght@0,100;0,400;0,700;1,100&family=Silkscreen&display=swap" rel="stylesheet">
+    <title>Jogo da Marmota</title>
+</head>
+<body>
+    <div class="container">
+        <div class="menu">
+            <div class="menu-time">
+                <h2 style="color: red;">Timer:</h2>
+                <h2 id="time-left">0</h2>
+            </div>
+            <div class="menu-score">
+                <h2 style="color: red;">Score:</h2>
+                <h2 id="score">0</h2>
+            </div>
+            <div class="menu-life">
+                <img src="/assets/heart.png" height="40px">
+                <h2 id="life">5</h2>
+            </div>
+        </div>
+        <div class="painel">
+            <div class="painel-row">
+                <div class="square" id="1"></div>
+                <div class="square" id="2"></div>
+                <div class="square" id="3"></div>
+            </div>
+            <div class="painel-row">
+                <div class="square" id="4"></div>
+                <div class="square" id="5"></div>
+                <div class="square" id="6"></div>
+            </div>
+            <div class="painel-row">
+                <div class="square enemy" id="7"></div>
+                <div class="square" id="8"></div>
+                <div class="square" id="9"></div>
+            </div>
+        </div>
+    </div>
+    <script src="/main.js"></script>
+</body>
+</html>
