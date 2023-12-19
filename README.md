@@ -7,7 +7,7 @@ Concluído!!! :leaves: :herb:
 
 ## Demonstração da aplicação
 [clique aqui para jogar](https://renatabc.github.io/memory-s-game-cardcaptors-sakura/)
-![image](https://github.com/Renatabc/groundhog-game/assets/93830634/cd424116-8d7b-4b94-86a8-7bc14f5141d5)
+![image](https://github.com/Renatabc/groundhog-game/assets/93830634/fa96d48a-b31c-4c3a-b1c7-a0a0cf5098ab)
 
 
 
