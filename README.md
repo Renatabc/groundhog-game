@@ -6,7 +6,7 @@ Concluído!!! :leaves: :herb:
 
 
 ## Demonstração da aplicação
-[clique aqui para jogar](https://renatabc.github.io/memory-s-game-cardcaptors-sakura/)
+[clique aqui para jogar]()
 ![image](https://github.com/Renatabc/groundhog-game/assets/93830634/fa96d48a-b31c-4c3a-b1c7-a0a0cf5098ab)
 
 
@@ -22,8 +22,6 @@ As seguintes ferramentas foram utilizadas na construção dessa atividade:
 - VSCode (editor de código);
 
 ## Extras
-Música de fundo utilizada pertece a <a href="https://pixabay.com/pt/users/lemonmusicstudio-14942887/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=133219">Vitaliy Levkin</a> extraída do <a href="https://pixabay.com/music//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=133219">Pixabay</a>
-
 Efeito sonoro utilizado extraído do <a href="https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=6120">Pixabay</a>
 
 
